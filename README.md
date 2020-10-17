@@ -1,5 +1,7 @@
 #### Proofs that API-AC is a paste.
 
+* Black screen-shots [API-AC]
+* White screen-shots [OTHER-AC'S]
 
 ![ATG1](https://i.imgur.com/uoTCMFl.png)
 
