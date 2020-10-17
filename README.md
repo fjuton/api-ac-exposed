@@ -1,18 +1,19 @@
 #### Proofs that API-AC is a paste.
 
+
 ![ATG1](https://i.imgur.com/uoTCMFl.png)
 
 ![API1](https://i.imgur.com/vNhShHl.png)
 
--- https://i.imgur.com/7JVQYuQ.png `CHOCO-HAX`
+![CHOCO1](https://i.imgur.com/7JVQYuQ.png)
 
--- https://i.imgur.com/yHEenTo.png `API-AC`
+![API2](https://i.imgur.com/yHEenTo.png)
 
 
 
--- https://i.imgur.com/FHJe04l.png `ATG`
+![ATG2](https://i.imgur.com/FHJe04l.png)
 
--- https://i.imgur.com/vope7RN.png `API-AC`
+![API3](https://i.imgur.com/vope7RN.png)
 
 
 Im sure i gave you alot of proofs that `API-AC` is a paste.
