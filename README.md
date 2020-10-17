@@ -1,21 +1,17 @@
-```
-1. PROOF
-```
+#### Proofs that API-AC is a paste.
 
--- https://i.imgur.com/uoTCMFl.png `ATG`
--- https://i.imgur.com/vNhShHl.png `API-AC`
+![ATG1](https://i.imgur.com/uoTCMFl.png)
 
-```
-2. PROOF
-```
+![API1](https://i.imgur.com/vNhShHl.png)
+
 -- https://i.imgur.com/7JVQYuQ.png `CHOCO-HAX`
+
 -- https://i.imgur.com/yHEenTo.png `API-AC`
 
-```
-3. PROOF
-```
+
 
 -- https://i.imgur.com/FHJe04l.png `ATG`
+
 -- https://i.imgur.com/vope7RN.png `API-AC`
 
 
