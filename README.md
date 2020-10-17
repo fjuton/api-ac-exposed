@@ -16,8 +16,8 @@
 ![API3](https://i.imgur.com/vope7RN.png)
 
 
-Im sure i gave you alot of proofs that `API-AC` is a paste.
-Don't buy it, every anticheat that exist now its a SCAM/PASTE.
+Im sure i gave you alot of proofs that **API-AC** is a paste.<br>
+Don't buy it, every anticheat that exist now its a **SCAM/PASTE**.<br>
 If you wanna use this "anti-shits" for free just download the leak and with some experience you can do yourself.
 
 #### Sources
