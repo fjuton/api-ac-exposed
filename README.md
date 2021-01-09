@@ -1,4 +1,6 @@
-#### Proofs that API-AC is a paste.
+#### Proofs that EVERY FIVEM ANTICHEAT is a paste.
+
+- For example we will took "API-AC"
 
 * Black screen-shots **[API-AC]**
 * White screen-shots **[OTHER-AC'S]**
