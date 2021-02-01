@@ -1,4 +1,4 @@
-#### Proofs that EVERY FIVEM ANTICHEAT is a paste.
+
 
 - For example we will took "API-AC"
 
