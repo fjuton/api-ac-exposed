@@ -1,7 +1,5 @@
 
 
-- For example we will took "API-AC"
-
 * Black screen-shots **[API-AC]**
 * White screen-shots **[OTHER-AC'S]**
 
